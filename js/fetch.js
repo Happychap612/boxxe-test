@@ -21,7 +21,6 @@ $(document).ready(function () {
  * Fetch data from the fakestoreapi.com and process it
  */
 function fetchAndProcess() {
-    // do the fetch with raw javascript
     fetch('https://fakestoreapi.com/products')
         .then(res => res.json())
         .then(json => {
