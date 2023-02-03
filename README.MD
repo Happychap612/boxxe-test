@@ -19,6 +19,6 @@ Use the following site - https://fakestoreapi.com/
 ## My Thoughts
 
 No word of a lie this was one of the more difficult tests I've done but not because the actual work was difficult, just because the brief felt weirdly obfuscated.
-I couldn't do gross margin properly because this doesn't tell us what the actual cost of the item so it fell like the gross margina and markup were the same thing.
+I couldn't do gross margin properly because this doesn't tell us what the actual cost of the item so it fell like the gross margin and markup were the same thing.
 
 Was originally going to show the data step by step being processed but realised that was super inefficient and just did it all at once.
